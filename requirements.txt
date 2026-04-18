@@ -2,7 +2,7 @@ streamlit
 opencv-python-headless
 numpy
 easyocr
-torch==2.11.0
-torchvision==0.26.0
+torch==2.2.2
+torchvision==0.17.2
 Pillow
 pdf2image
