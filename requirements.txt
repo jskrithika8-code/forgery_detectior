@@ -2,7 +2,8 @@ streamlit
 opencv-python-headless
 numpy
 easyocr
-torch
+torch==2.11.0+cpu
+torchvision==0.26.0+cpu
 Pillow
 pdf2image
 
